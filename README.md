@@ -1,4 +1,4 @@
-# me
+# Imdat
 
 Hi there, 
 I'm imdat, imdat solak. I work on various private projects but also on some interesting public ones.

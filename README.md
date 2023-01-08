@@ -1,5 +1,9 @@
-### Hi there 👋
+# me
 
+Hi there, 
+I'm imdat, imdat solak. I work on various private projects but also on some interesting public ones.
+
+I will keep adding stuff here, but for now: You can <a rel="me" href="https://tech.lgbt/@imdat">always find me on Mastodon</a>.
 <!--
 **imdatsolak/imdatsolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

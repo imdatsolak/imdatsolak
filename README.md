@@ -4,7 +4,7 @@ Hi there,
 
 I'm imdat, imdat solak. I work on various private projects but also on some interesting public ones.
 
-I will keep adding stuff here, but for now: You can <a rel="me" href="https://tech.lgbt/@imdat">always find me on Mastodon</a>.
+I will keep adding stuff here, but for now: You can always find me on Fedi as <a rel="me" href="https://tau-ceti.space/@imdat">@imdat@tau-ceti.space</a> and <a rel="me" href="https://tech.lgbt/@imdat">@imdat@tech.lgbt</a>.
 <!--
 **imdatsolak/imdatsolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

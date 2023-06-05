@@ -1,8 +1,8 @@
-# Imdat
+# Imdat Celeste
 
 Hi there, 
 
-I'm imdat, imdat solak. I work on various private projects but also on some interesting public ones.
+I'm Imdat Celeste. I work on various private projects but also on some interesting public ones.
 
 I will keep adding stuff here, but for now: You can always find me on Fedi as <a rel="me" href="https://tau-ceti.space/@imdat">@imdat@tau-ceti.space</a>.
 <!--

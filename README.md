@@ -4,7 +4,7 @@ Hi there,
 
 I'm Imdat Celeste. I work on various private projects but also on some interesting public ones.
 
-I will keep adding stuff here, but for now: You can always find me on Fedi as <a rel="me" href="https://tau-ceti.space/@imdat">@imdat@tau-ceti.space</a>.
+I will keep adding stuff here, but for now: You can always find me on Fedi as <a rel="me" href="https://tau-ceti.space/@ics">@ics@tau-ceti.space</a>.
 
 I am also a non-voting <a rel="me" href="https://anarres.family/@admin">Member of the Anarres Family</a>.
 
